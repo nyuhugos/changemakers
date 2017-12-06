@@ -1,0 +1,7 @@
+.wrapper{
+	min-width:1200px;
+}
+
+#changemakers ul.filters{
+	display: none;
+}
